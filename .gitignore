@@ -6,6 +6,7 @@
 **/old
 **/test
 **/old*
+**/_book
 .env
 
 # Logs
